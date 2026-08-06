@@ -3,8 +3,12 @@ Universal Downloader is a CLI program that helps you download videos from sites 
 
 ## Installation
 1. You need to download several Python modules
-``` pip install colorama ```
-``` pip install yt_dlp ```
+```bash
+pip install colorama 
+```
+```bash
+pip install yt_dlp 
+```
 2. Clone the repository:
 ```bash
 git clone https://github.com/Linch-Foox/universal_downloader.git
@@ -45,3 +49,5 @@ Enter the video URL, and it is downloaded to the directory.
 [ ] GUI 
 [ ] Website
 [ ] More supported websites
+
+###### Thank you for using it!
