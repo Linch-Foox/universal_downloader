@@ -45,9 +45,9 @@ Enter link:
 Enter the video URL, and it is downloaded to the directory.
 
 ## Roadmap
-[+] Video upload
-[ ] GUI 
-[ ] Website
-[ ] More supported websites
+- [+] Video upload
+- [ ] GUI 
+- [ ] Website
+- [ ] More supported websites
 
 ###### Thank you for using it!
